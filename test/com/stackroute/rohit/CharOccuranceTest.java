@@ -1,3 +1,4 @@
+package com.stackroute.rohit;
 import static org.junit.Assert.*;
 
 public class CharOccuranceTest {

@@ -1,3 +1,4 @@
+package com.stackroute.rohit;
 import java.util.Scanner;
 
 public class ReplaceAll {
